@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Proyectos de Convivencia - CETIS 054</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body bgcolor="pink" text="black">
+
+<h1 align="center">Proyectos de Convivencia en el CETIS 054</h1>
+
+<h2>¿Qué es la convivencia escolar?</h2>
+<p>
+La convivencia escolar es el conjunto de relaciones basadas en el respeto, la comunicación, la participación y la cooperación entre estudiantes, docentes y personal del plantel.
+En el CETIS 054, estos proyectos buscan mejorar el ambiente escolar y fortalecer los valores dentro de la comunidad estudiantil.
+</p>
+
+<h2>Proyectos de Convivencia Propuestos</h2>
+
+<h3>1. Talleres de Resolución de Conflictos</h3>
+<p>
+Se organizarán talleres donde los alumnos aprendan a manejar desacuerdos mediante el diálogo, la empatía y la mediación.
+</p>
+
+<h3>2. Campaña “Respeto en Acción”</h3>
+<p>
+Proyecto que incluye carteles, videos y actividades dinámicas enfocadas en promover valores como el respeto, la responsabilidad y la tolerancia.
+</p>
+
+<h3>3. Jornadas de Integración por Grupos</h3>
+<p>
+Actividades recreativas y dinámicas de trabajo en equipo para fortalecer la relación entre compañeros.
+</p>
+
+<h3>4. Brigada de Cultura de Paz</h3>
+<p>
+Grupo de estudiantes voluntarios encargado de promover acciones positivas dentro del plantel: apoyo, acompañamiento y difusión.
+</p>
+
+<h3>5. Espacios de Expresión Estudiantil</h3>
+<p>
+Murales, foros, concursos y revistas digitales donde los alumnos puedan expresar ideas y propuestas.
+</p>
+
+<h3>6. Día de la Convivencia CETIS 054</h3>
+<p>
+Evento mensual con juegos, concursos y actividades deportivas y artísticas para mejorar la unión entre alumnos.
+</p>
+
+<hr>
+
+<h2>¿Por qué muchos proyectos de convivencia no funcionan?</h2>
+<p>
+A continuación se presenta una tabla que resume las causas más comunes por las que los proyectos de convivencia suelen fallar en las escuelas:
+</p>
+
+<table border="1" cellpadding="8" cellspacing="0" align="center">
+    <tr bgcolor="#f0f0f0">
+        <th>Causa del Problema</th>
+        <th>Descripción</th>
+    </tr>
+
+    <tr>
+        <td>Falta de participación estudiantil</td>
+        <td>Los alumnos no se involucran en las actividades porque no se sienten identificados o no ven utilidad real.</td>
+    </tr>
+
+    <tr>
+        <td>Mala organización</td>
+        <td>Los proyectos no cuentan con una buena planificación, roles claros o seguimiento adecuado.</td>
+    </tr>
+
+    <tr>
+        <td>Poca difusión</td>
+        <td>Muchos estudiantes nunca se enteran de las actividades por falta de comunicación efectiva.</td>
+    </tr>
+
+    <tr>
+        <td>Actividades poco atractivas</td>
+        <td>Los proyectos no toman en cuenta los intereses reales de los alumnos, por lo que pierden impacto.</td>
+    </tr>
+
+    <tr>
+        <td>Falta de apoyo docente</td>
+        <td>Cuando los maestros no impulsan o acompañan las actividades, el proyecto pierde fuerza.</td>
+    </tr>
+
+    <tr>
+        <td>Desinterés general</td>
+        <td>Algunos estudiantes no toman en serio las actividades de convivencia y no colaboran.</td>
+    </tr>
+</table>
+
+<br><br>
+
+<a href="indice.html">Regresar al índice</a>
+
+</body>
+</html>
